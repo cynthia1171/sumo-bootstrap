@@ -11,7 +11,7 @@
 
 .first-section {
   background-image: url(../img/bg.jpeg);
-  height: 100vh;
+  height: 100vh;/*toma el 100% del alto del navegador*/
   width: 100%;
   background-position: center 5%;
 }
